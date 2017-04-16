@@ -23,7 +23,7 @@ private Button training;
         add=(Button)findViewById(R.id.button7);
         quiz=(Button)findViewById(R.id.button8);
         String[] English = {"name","surname","father","country","team","university","class","social","Turkey","city"};
-        String[] Turkish = {"isim","soyisim","baba","ülke","takım","üniversite","sınıf","sosyal","Türkiye","şehir"};
+        String[] Turkish = {"isim","soyisim","baba","ülke","takım","üniversite","sınıf","sosyal","Türkiye","Şehir"};
 
 
 
