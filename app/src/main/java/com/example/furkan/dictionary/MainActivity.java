@@ -22,6 +22,7 @@ private Button training;
         training=(Button)findViewById(R.id.button);
         add=(Button)findViewById(R.id.button7);
         quiz=(Button)findViewById(R.id.button8);
+        //initial words for sqllite
         String[] English = {"name","surname","father","country","team","university","class","social","Turkey","city"};
         String[] Turkish = {"isim","soyisim","baba","ülke","takım","üniversite","sınıf","sosyal","Türkiye","Şehir"};
 
@@ -33,7 +34,7 @@ private Button training;
             Database db = new Database(getApplicationContext());
 for(int i =0;i<English.length;i++){
 
-            db.insertContact(English[i].toString(), Turkish[i].toString());//kitap ekledik
+            db.insertContact(English[i].toString(), Turkish[i].toString());//kelimeleri ekledik
      }
             db.close();
         }
