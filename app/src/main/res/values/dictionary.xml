@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="asasa">
+    <item>
+       name
+
+    </item>
+    <item>
+       surname
+
+    </item>
+    <item>
+       age
+
+    </item>
+    <item>
+      birthday
+
+    </item>
+    <item>
+        mother
+
+    </item>
+    <item>
+        father
+
+    </item>
+</string-array></resources>

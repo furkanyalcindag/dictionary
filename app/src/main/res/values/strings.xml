@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">dictionary</string>
+
+    <string-array name="english">
+    <item>
+       name
+
+    </item>
+        <item>
+       surname
+
+    </item>
+        <item>
+       age
+
+    </item>
+        <item>
+      birthday
+
+    </item>
+        <item>
+        mother
+
+    </item>
+        <item>
+        father
+
+    </item>
+    </string-array>
+
+    <string-array name="turkish">
+    <item>
+       isim
+
+    </item>
+        <item>
+       soyisim
+
+    </item>
+        <item>
+       yaş
+
+    </item>
+        <item>
+      doğum günü
+
+    </item>
+        <item>
+        anne
+
+    </item>
+        <item>
+        baba
+
+    </item>
+    </string-array>
+
+
+</resources>
